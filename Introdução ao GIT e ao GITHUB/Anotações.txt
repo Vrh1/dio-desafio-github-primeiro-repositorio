@@ -37,3 +37,5 @@ git remote add origin  https://github.com/Vrh1/Teste-de-git.git
 git remote -v
 
 git clone "link"
+
+git push origin main
